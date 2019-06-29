@@ -1,0 +1,56 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: red;
+
+}
+
+.wrapper {
+    text-align: center;
+}
+
+
+h3 {
+    color: blue
+}
+
+.numGuesses {
+color: green;
+}
+
+background-image {
+    width: 100%;
+    height: 100%;
+    opacity: 20%;
+     /* looks like nothing is changing when styling  */
+}
+
+h2 {
+
+}
+
+#won{
+    color: green;
+
+}
+
+#lost{
+    color: red;
+}
+
+p {
+    font-size: 25px;
+}
+
+#attempts{
+    color: green;
+}
+
+#playerGuess {
+    font-weight: 50%;
+    
+}
+
+
